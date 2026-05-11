@@ -1,0 +1,4 @@
+﻿horizon_days,cutoffs,mae_mean,rmse_mean,mape_mean,mape_std
+30,8,68.14,83.65,21.98,14.24
+60,8,66.08,80.3,19.55,11.59
+90,8,67.34,84.74,20.08,11.35

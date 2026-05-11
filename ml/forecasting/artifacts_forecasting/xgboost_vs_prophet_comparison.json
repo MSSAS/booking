@@ -1,0 +1,50 @@
+[
+  {
+    "horizon_days": 30,
+    "prophet_cutoffs": 8,
+    "prophet_mae_mean": 72.68,
+    "prophet_rmse_mean": 90.17,
+    "prophet_mape_mean": 20.5,
+    "prophet_mape_std": 10.74,
+    "xgboost_cutoffs": 8,
+    "xgboost_mae_mean": 68.14,
+    "xgboost_rmse_mean": 83.65,
+    "xgboost_mape_mean": 21.98,
+    "xgboost_mape_std": 14.24,
+    "mape_delta_xgb_minus_prophet": 1.48,
+    "mae_delta_xgb_minus_prophet": -4.54,
+    "rmse_delta_xgb_minus_prophet": -6.52
+  },
+  {
+    "horizon_days": 60,
+    "prophet_cutoffs": 8,
+    "prophet_mae_mean": 69.47,
+    "prophet_rmse_mean": 86.17,
+    "prophet_mape_mean": 18.76,
+    "prophet_mape_std": 9.41,
+    "xgboost_cutoffs": 8,
+    "xgboost_mae_mean": 66.08,
+    "xgboost_rmse_mean": 80.3,
+    "xgboost_mape_mean": 19.55,
+    "xgboost_mape_std": 11.59,
+    "mape_delta_xgb_minus_prophet": 0.79,
+    "mae_delta_xgb_minus_prophet": -3.39,
+    "rmse_delta_xgb_minus_prophet": -5.87
+  },
+  {
+    "horizon_days": 90,
+    "prophet_cutoffs": 8,
+    "prophet_mae_mean": 74.12,
+    "prophet_rmse_mean": 93.59,
+    "prophet_mape_mean": 19.64,
+    "prophet_mape_std": 8.12,
+    "xgboost_cutoffs": 8,
+    "xgboost_mae_mean": 67.34,
+    "xgboost_rmse_mean": 84.74,
+    "xgboost_mape_mean": 20.08,
+    "xgboost_mape_std": 11.35,
+    "mape_delta_xgb_minus_prophet": 0.44,
+    "mae_delta_xgb_minus_prophet": -6.78,
+    "rmse_delta_xgb_minus_prophet": -8.85
+  }
+]

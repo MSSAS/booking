@@ -1,0 +1,11 @@
+{
+  "model": "prophet_capacity_adjusted",
+  "target": "load_rate",
+  "capacity_quantile": 0.99,
+  "cutoff_date": "2025-08-01",
+  "mae": 120.1,
+  "rmse": 151.96,
+  "mape_pct": 19.68,
+  "mae_rate": 0.1542,
+  "rmse_rate": 0.1951
+}

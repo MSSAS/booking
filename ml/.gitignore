@@ -1,3 +1,5 @@
 silver.csv
 data
 models
+streamlit_app/*.log
+__pycache__/

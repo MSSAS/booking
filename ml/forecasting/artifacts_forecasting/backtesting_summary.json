@@ -1,0 +1,26 @@
+[
+  {
+    "horizon_days": 30,
+    "cutoffs": 8,
+    "mae_mean": 72.68,
+    "rmse_mean": 90.17,
+    "mape_mean": 20.5,
+    "mape_std": 10.74
+  },
+  {
+    "horizon_days": 60,
+    "cutoffs": 8,
+    "mae_mean": 69.47,
+    "rmse_mean": 86.17,
+    "mape_mean": 18.76,
+    "mape_std": 9.41
+  },
+  {
+    "horizon_days": 90,
+    "cutoffs": 8,
+    "mae_mean": 74.12,
+    "rmse_mean": 93.59,
+    "mape_mean": 19.64,
+    "mape_std": 8.12
+  }
+]

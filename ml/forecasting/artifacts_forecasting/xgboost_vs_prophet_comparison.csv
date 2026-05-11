@@ -1,0 +1,4 @@
+﻿horizon_days,prophet_cutoffs,prophet_mae_mean,prophet_rmse_mean,prophet_mape_mean,prophet_mape_std,xgboost_cutoffs,xgboost_mae_mean,xgboost_rmse_mean,xgboost_mape_mean,xgboost_mape_std,mape_delta_xgb_minus_prophet,mae_delta_xgb_minus_prophet,rmse_delta_xgb_minus_prophet
+30,8,72.68,90.17,20.5,10.74,8,68.14,83.65,21.98,14.24,1.48,-4.54,-6.52
+60,8,69.47,86.17,18.76,9.41,8,66.08,80.3,19.55,11.59,0.79,-3.39,-5.87
+90,8,74.12,93.59,19.64,8.12,8,67.34,84.74,20.08,11.35,0.44,-6.78,-8.85
